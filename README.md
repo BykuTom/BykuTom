@@ -13,7 +13,6 @@
 
 - 📫 How to reach me? **https://www.wolak.dev/**
 
-<h3 align="left">Connect with me:</h3>[https://www.wolak.dev/](https://www.wolak.dev/)
 <p align="left">
 </p>
 
