@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi <img width="32" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">, I'm Tomasz Wolak <img align="center" alt="Coding" width="100" src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif"></h1>
 
-<h3 align="center">I am a passionate frontend developer in the UK</h3>
+<h3 align="center">I am a passionate frontend developer living the UK</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif">
 
 - 🔭 I’m currently working on [an Ecommerce website](https://github.com/BykuTom/Amazing-Prime)
