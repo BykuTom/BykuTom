@@ -1,8 +1,10 @@
+
+
 ![MasterHead](https://github.com/BykuTom/Project-screenshots/blob/main/GithubBanner/github-header-image3.png?raw=true)
 
 <h1 align="center">Hi <img width="32" src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif">, I'm <a href="https://www.linkedin.com/in/tomasz-wolak-790385277/">Tomasz Wolak</a> </h1><br>
 
-<p>As a fullstack developer, I aspire to engage in diverse projects, specializing in the MERN stack. My primary focus lies in JavaScript and Typescript, although I am proficient in C# and various other programming languages. I am eager to contribute my skills to a wide range of initiatives.</p><br>
+<p>As a certified Automation Test Engineer and full-stack developer, I am passionate about engaging in diverse projects, specializing in Java, JavaScript, and TypeScript. While my primary focus is on automation testing and full-stack development, I am also proficient in C# and various other programming languages. I am eager to contribute my skills and expertise to a wide range of initiatives.</p><br>
 
 You can find out more about me on [my Portfolio](https://www.wolak.dev/), you can also reach out on [my Linkedin](https://www.linkedin.com/in/tomasz-wolak-790385277/).
 
